@@ -1,1 +1,12 @@
-hola
+                          -Personas are the future for Enterprise Apps-
+
+So... basically i just finished reading that article and i agree, "Personas" are indeed useful.
+If you have a clear idea of who are you dealing with when it comes to creating a product/App, it 
+becomes way easier, since now you know who are the customers and what do they like. To be
+quite honest, while reading about this subject i also thought about how can this be useful to me, 
+to my team's project, and mainly if i'll be able to create an interface good enough, even if i had
+to my disponsition a persona that fits exactly what i need.
+
+And finally, what do i need if i want to create an interface, app or product that can satisfy the
+needs of two or more completely diferent personas? Is that posible?. I think i'll be making another
+entry that continues with this topic, since now I'm way too involved in it.
