@@ -1,0 +1,9 @@
+Hanging out the proyect
+
+Hoy hicimos una entrega de proyecto a través de una confrencia de Hangouts. Esto fue incómodo desde el punto de vista práctico, pero resultó útil desde el punto de vista profesional.
+
+Es obvio si pienso al respecto, pero la mayoría de las reuniones y presentaciones de proyectos en este ámbito de trabajo se harán de forma remota. Es simple cuestión de comunicación. Recordarlo fue refrescante, incluso si no participé directamente en la conferencia, pues di apoyo a mis compañeros cuando hablaron.
+
+Por otro lado, se espera que justifiquemos nuestra selección de un carrusel para la interfaz de nuestro proyecto. Entiendo que se nos exija una justificación considerando que la mayoría de los artículos al respecto recomiendan no usar un carrusel. Sin embargo en nuestro caso nos conviene para minimizar la canitidad de botones y simplificar la interfaz.
+
+Eliminaremos el auto-swap, y esto nos deja con el problema de mostrar la información completa lo cual se pretende solucionar con una vista de miniaturas de servicios disponibles. Un carrusel bien hecho funciona.
