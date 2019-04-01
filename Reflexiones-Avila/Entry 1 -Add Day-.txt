@@ -1,3 +1,11 @@
 Reflexion II
+
 Este viernes tuvimos una platica por parte de una persona que se ha desenvuelto como 
-desarrollador de avatars de minecraft. La intención de 
+desarrollador de avatars de minecraft. La intención de la charla me pareció buena,
+es importante que con la gran cantidad de herramientas tecnologicas que tenemos hoy en dia,
+pensemos al desarrollar aplicaciones y sistemas en personas que no tienen las mismas condiciones
+en cuanto a su vida o forma de vida, pero que ambos pueden ser usuarios de estos productos desarrollados.
+Hace muchos años, la forma de pensar era diferente, y era mas común desarrollar pensando unicamente
+en un tipo de usuario, y se dejaba atrás la gran variedad de usuarios que existen y en la importancia
+de desarrollar pensando en las necesidades de cada uno de ellos. Es dcir, algo que actualemte le llamamos
+inclusión. 
